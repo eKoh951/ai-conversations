@@ -1,47 +1,73 @@
 # Documento Estratégico de Animeton
 
-Versión 1.3
+Versión 1.4
 
-## 1. Visión y Misión
+<div align="center" style="background-color: #1a1a1a; padding: 20px; border-radius: 10px; max-width: 600px; margin: 0 auto;">
+
+<h2 style="color: #FF69B4; font-size: 2.5em; margin-bottom: 20px;">Animeton</h2>
+
+<p style="color: #ffffff; font-size: 1.2em; line-height: 1.6; margin-bottom: 20px;">
+La aplicación de escritorio definitiva para ver anime en español.
+</p>
+
+<div style="display: flex; justify-content: space-around; margin-bottom: 20px;">
+  <span style="color: #00BFFF;">🚀 Rápido</span>
+  <span style="color: #32CD32;">🛡️ Seguro</span>
+  <span style="color: #FFA500;">🤝 Social</span>
+</div>
+
+<p style="color: #cccccc; font-style: italic;">
+Streaming con torrents. Disfruta de tu anime favorito con la mejor experiencia de usuario.
+</p>
+
+</div>
+
+## 2. Visión y Misión
 
 ### Visión
-Ser "La forma más rápida, segura y social de disfrutar anime en Español".
+
+<div align="center">
+
+🌟 **La forma más rápida, segura y social de disfrutar anime en Español** 🌟
+
+</div>
+
+---
 
 ### Misión
-Proporcionar una plataforma de streaming de anime en español que ofrezca la mejor experiencia de usuario, con tiempos de carga mínimos y un enfoque en la comunidad hispana.
+Desarrollar y mantener una aplicación de escritorio que proporcione la mejor experiencia de streaming de anime en español, con tiempos de carga mínimos y un fuerte enfoque en la comunidad hispana.
 
-## 2. Manifiesto
+## 3. Manifiesto y Características Clave
 
-- Buscar siempre mejorar la experiencia de usuario sobre cualquier cosa
-- Divertirnos mientras creamos algo que amamos y nos sentimos orgullosos
-- Poder ver anime super rápido, sin problemas
-- Nosotros como creadores, también consumir la aplicación
-- No tratar de resolver problemas que no tenemos
-- Tener sentido común
-
-## 3. Descripción del Proyecto
-
-Animeton es una aplicación de escritorio para Windows que utiliza webtorrent para transmitir anime a la comunidad de habla hispana.
-
-### 3.1 Características Clave
-
-- Tener la mejor experiencia de consumo de anime
-- Utilización de la red de nyaa.si, principalmente del proyecto Erai-raws para obtener torrents
-- Cliente desarrollado con Electron.js y React.js
-- Enfoque en minimizar los tiempos de carga
-- Enfoque en la comunidad hispana
+- Priorizar la mejora continua de la experiencia de usuario
+- Ofrecer streaming de anime rápido y sin problemas
+- Utilizar la red de nyaa.si y el proyecto Erai-raws para obtener torrents
+- Desarrollar con Electron.js y React.js para una experiencia de escritorio óptima
+- Enfocarse en la comunidad hispana y fomentar aspectos sociales
+- Mantener tiempos de carga mínimos
+- Crear un producto que nosotros mismos amemos usar
+- Aplicar sentido común en todas nuestras decisiones
 
 ## 4. Equipo
 
-- Erick (eKoh): Director, arquitecto y desarrollador fullstack TypeScript
-- Angel (iAsure): Principal fullstack TypeScript developer
-- Mario (Mabci): Digital product growth specialist, encargado de crecimiento de userbase, redes sociales, manejo de comunidad y QA
+- **eKoh**:
+  - Director, arquitecto y desarrollador fullstack TypeScript
+- **iAsure**:
+  - Principal fullstack TypeScript developer
+- **Mabci**:
+  - Digital product growth specialist
+  - Encargado de crecimiento de userbase, redes sociales, manejo de comunidad y QA
 
 ## 5. Plan de Desarrollo
 
-### Alpha v0.1
-- Desarrollo inicial de la aplicación
-- Implementación de características básicas
+### Alpha v0.1 (Actual)
+- Implementación de características básicas:
+  - Página de inicio (Home)
+  - Detalles del anime con lista de episodios
+  - Reproducción de episodios con subtítulos
+  - Streaming de torrents
+  - Búsqueda de anime
+  - Backend API funcional
 
 ### Alpha v0.2 (MVP)
 - Recopilación de feedback inicial
@@ -118,5 +144,3 @@ Métricas de audiencia:
 - Enfoque en la seguridad y comodidad de usuarias femeninas
 - Integración de funciones sociales
 
-### Propuesta de valor única
-"Animeton: La forma más rápida, segura y social de disfrutar anime en español"
